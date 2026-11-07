@@ -1,6 +1,16 @@
 # Chassi_Hermes
 
-Uma base pública para aprender, documentar e reproduzir uma arquitetura de agentes com memória persistente, começando por um ambiente Linux local e evoluindo até uma operação remota.
+Uma base pública para manter um ambiente de trabalho assistido por IA entre diferentes máquinas, usando o GitHub para compartilhar versões da estrutura, da configuração e dos registros de contexto.
+
+**A VPS é opcional.** Quem usa somente um computador pode preparar outra máquina com o chassi e continuar a partir do material preservado no GitHub. Quem possui local e VPS pode usá-los como ambientes que colaboram em um mesmo trabalho, como uma equipe.
+
+| Elemento | Papel principal |
+| --- | --- |
+| Local | Aprender, testar, desenvolver e produzir |
+| VPS, quando utilizada | Publicar aplicações online e dar continuidade ao trabalho quando o local estiver indisponível |
+| GitHub | Compartilhar versões, contribuições e registros para que o trabalho avance entre ambientes |
+
+O objetivo é tornar a troca de ambiente simples e intuitiva, mantendo a mesma forma de trabalhar e um ponto de retomada registrado.
 
 **Esta primeira entrega contém documentação, um exemplo de configuração e um modelo de registro de tarefa.** A base WSL foi aplicada manualmente em uma instalação de referência. A integração entre ChatGPT, MCP, Hermes e agentes continua planejada neste repositório. A reconstrução completa da arquitetura ainda não foi validada.
 
