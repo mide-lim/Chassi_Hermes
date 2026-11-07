@@ -1,0 +1,27 @@
+{
+  "versao_formato": 1,
+  "id": "tarefa-exemplo-001",
+  "objetivo": "Descrever o resultado esperado antes de iniciar a tarefa.",
+  "atualizado_em": null,
+  "estado": "planejada",
+  "origem": {
+    "canal": "chat",
+    "referencia": null
+  },
+  "contexto": {
+    "repositorio_projeto": "repo-projeto-exemplo",
+    "revisao": null,
+    "referencia": null
+  },
+  "executor": {
+    "ambiente": null,
+    "identificador": null
+  },
+  "checkpoint": {
+    "ultimo_passo_concluido": null,
+    "referencia": null
+  },
+  "incerteza": null,
+  "referencia_resultado": null,
+  "proximo_passo": "Definir o objetivo e o ambiente responsável pela tarefa."
+}

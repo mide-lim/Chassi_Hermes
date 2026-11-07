@@ -1,0 +1,53 @@
+# Credenciais e configuração particular
+.env
+.env.*
+!.env.example
+.wslconfig
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+credentials*.json
+secrets/
+private/
+
+# Estado de execução, dados e cópias completas
+runtime/
+state/
+data/
+backups/
+exports/
+logs/
+*.log
+*.vhd
+*.vhdx
+*.tar
+*.tar.gz
+*.tgz
+*.sqlite
+*.sqlite3
+*.db
+*.db-*
+
+# Ambientes e caches de desenvolvimento
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+node_modules/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Modelos e artefatos grandes
+models/
+*.gguf
+*.safetensors
+
+# Arquivos do sistema e do editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
