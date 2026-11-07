@@ -84,6 +84,7 @@ A documentação pública deve começar por níveis úteis: versionamento e regi
 
 ## Como ler o repositório
 
+- [Fronteiras entre chassi e almas](docs/fronteiras-chassi-almas.md): responsabilidades, destinos da memória e decisões de implementação.
 - [Instalação manual da base WSL](docs/instalacao-wsl.md): configuração, criação e verificações.
 - [Persistência e evolução](docs/persistencia-e-evolucao.md): o que guardar no Git, o que requer backup e como registrar continuidade.
 - [Exemplo de configuração do WSL](examples/wslconfig.example): chave de tamanho máximo para novos discos.
